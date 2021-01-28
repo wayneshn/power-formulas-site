@@ -14,3 +14,6 @@ Logic Sheet's API Connector can help you make POST/GET requests to any json-form
 - Insert a growth rate column
 - Unpivot data
 - Remove duplicate rows
+
+## Contact me
+My email address is shengwei1993@gmail.com. Feel free to reach out!
