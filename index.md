@@ -17,3 +17,6 @@ Logic Sheet's API Connector can help you make POST/GET requests to any json-form
 
 ## Contact me
 My email address is shengwei1993@gmail.com. Feel free to reach out!
+
+#### [Privacy policy](https://app.logicsheet.co/privacy)
+#### [Terms of Service](https://app.logicsheet.co/terms)
