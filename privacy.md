@@ -17,7 +17,7 @@ The first time an add-on is run, you will be prompted to authorize one or more p
 
 - Connect to an external service. This permission is required for fetching subscription information and fetching data from third-party API services as requested by the user.
 - Display and run third-party web content in prompts and sidebars inside Google applications. This permission is required for opening up the sidebar so you can use Logic Sheet functions in a user-friendly user interface.
-- See, edit, create, and delete your spreadsheets in Google Drive. Logic Sheet imports data into your spreadsheets and helps you manupulate data on your spreadsheets, which require reading and modifying your spreadsheet.
+- See, edit, create, and delete your spreadsheets in Google Drive. Logic Sheet imports data into your spreadsheets and helps you manipulate data on your spreadsheets, which require reading and modifying your spreadsheet.
 
 When you install Logic Sheet and log-in with you Google account, your email address will be shared with us. You email address will only be used to track your product subscription status and will not be used to send promotional emails. 
 
@@ -64,6 +64,12 @@ If you make a request, we have one month to respond to you. If you would like to
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
 Logic Sheet does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Contact Information
+If you have any queries regarding any of our terms, please contact us.
+
+Email: shengwei1993@gmail.com
+
 
 ###### Effective: 27 January 2021
 ###### Last modified: 27 January 2021
