@@ -1,4 +1,4 @@
-## Welcome to Logic Sheet
+## Logic Sheet
 
 Logic Sheet is the all-in-one tool that helps you manipulate your spreadsheet.
 
