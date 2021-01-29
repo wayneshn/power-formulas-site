@@ -66,7 +66,7 @@ Another part of our priority is adding protection for children while using the i
 Logic Sheet does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 ## Contact Information
-If you have any queries regarding any of our terms, please contact us.
+If you have any queries regarding our privacy policy and how we handle your personal information, please contact us.
 
 Email: shengwei1993@gmail.com
 
