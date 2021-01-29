@@ -1,6 +1,8 @@
 # Privacy Policy for Logic Sheet
 At Logic Sheet, accessible from https://logicsheet.co and the Logic Sheet Google Workspace add-on, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Logic Sheet and how we use it.
+
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+
 This Privacy Policy applies only to our online activities and is valid for visitors to our website (“Website”) and users of the Logic Sheet Google workspace add-on (“Service”) with regards to the information that they shared and/or collect in Logic Sheet. This policy is not applicable to any information collected offline or via channels other than this Website or the Logic Sheet Google workspace add-on Service.
 ## Consent
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
@@ -10,22 +12,24 @@ If you contact us directly, we may receive additional information about you such
 When you register for an Account, we may ask for your contact information, including items such as name, company name, address, and email address.
 ## Add-on Authorization scopes
 Our Service requires that Users give permission to access their personal information or act on their behalf.
+
 The first time an add-on is run, you will be prompted to authorize one or more permissions. Below are some of the permissions required by our add-on.
+
 - Connect to an external service. This permission is required for fetching subscription information and fetching data from third-party API services as requested by the user.
 - Display and run third-party web content in prompts and sidebars inside Google applications. This permission is required for opening up the sidebar so you can use Logic Sheet functions in a user-friendly user interface.
 - See, edit, create, and delete your spreadsheets in Google Drive. Logic Sheet imports data into your worksheets, which requires reading and modifying your spreadsheet. We have limited the scope of this permission to your current spreadsheet, rather than the default scope of reading/writing all sheets.
 
 When you install Logic Sheet and log-in with you Google account, your email address will be shared with us. You email address will only be used to track your product subscription status and will not be used to send promotional emails. 
 
-
 ## How we use your information
+
 We use the information we collect in various ways, including to:
+
 - Provide, operate, and maintain our Website and Service.
 - Improve, personalize, and expand our Website and Service.
 - Understand and analyze how you use our Website and Service.
 - Develop new products, services, features, and functionality.
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes.
-- Send you emails.
+- Send you emails about billing and subscription status.
 - Find and prevent fraud.
  
 ## Log Files
@@ -34,24 +38,31 @@ Logic Sheet follows a standard procedure of using log files. These files log vis
 Like any other website, Logic Sheet uses 'cookies.' These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 ## Third-Party Privacy Policies
 Logic Sheet's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 ## CCPA Privacy Rights (Do Not Sell My Personal Information)
 Under the CCPA, among other rights, California consumers have the right to:
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-Request that a business delete any personal data about the consumer that a business has collected.
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+
+- Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+- Request that a business delete any personal data about the consumer that a business has collected.
+- Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 ## GDPR Data Protection Rights
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
-The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
-The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
-The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
-The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
-The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
-The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+- The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+- The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+- The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+- The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+- The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+- The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 ## Children's Information
+
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
 Logic Sheet does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 ###### Effective: 27 January 2021
