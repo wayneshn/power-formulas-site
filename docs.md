@@ -30,21 +30,21 @@ _Common types_:
 **Path:** If provided, the funtion will only retrieve data that is located in the path. For example, You can enter key1.key2[1].key3 to retrieve to value of key3 of the second object of array key2 of the object key1.
 
 If the JSON response looks like this:
-    {
-        "id": 1001,
-        "person": [
-            {
-                "name": "John",
-                "age": 45,
-                "city": "New York"
-            },
-            {
-                "name": "Rich",
-                "age": 34,
-                "city": "London"
-            }
-        ]
-    }
+        {
+            "id": 1001,
+            "person": [
+                {
+                    "name": "John",
+                    "age": 45,
+                    "city": "New York"
+                },
+                {
+                    "name": "Rich",
+                    "age": 34,
+                    "city": "London"
+                }
+            ]
+        }
 the path person[1].name will return "Rich", while the path person[0] will return all information about John.
 
 **Request body:** Enter the JSON format request body. This will only apply to the POST method.
