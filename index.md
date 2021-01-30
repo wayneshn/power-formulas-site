@@ -16,7 +16,9 @@ Logic Sheet's API Connector can help you make POST/GET requests to any json-form
 - Remove duplicate rows
 
 ## Contact me
+
 My email address is shengwei1993@gmail.com. Feel free to reach out!
 
+#### [Documentation](https://app.logicsheet.co/docs)
 #### [Privacy Policy](https://app.logicsheet.co/privacy)
 #### [Terms of Service](https://app.logicsheet.co/terms)
