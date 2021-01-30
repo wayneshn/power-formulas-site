@@ -46,6 +46,7 @@ If the JSON response looks like this:
             }
         ]
     }
+
 the path person[1].name will return "Rich", while the path person[0] will return all information about John.
 
 **Request body:** Enter the JSON format request body. This will only apply to the POST method.
