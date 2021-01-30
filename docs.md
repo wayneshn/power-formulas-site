@@ -6,3 +6,4 @@ Thanks for using the Logic Sheet Google Workspace add-on. Logic Sheet is an all-
 This section will cover how to use Logic Sheet's API-related functions.
 
 ### Pull from an API
+![API screenshot](./img/ss-api.png)
