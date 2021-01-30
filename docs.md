@@ -30,6 +30,7 @@ _Common types_:
 **Path:** If provided, the funtion will only retrieve data that is located in the path. For example, You can enter key1.key2[1].key3 to retrieve to value of key3 of the second object of array key2 of the object key1.
 
 If the JSON response looks like this:
+
         {
             "id": 1001,
             "person": [
