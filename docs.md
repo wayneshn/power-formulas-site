@@ -31,21 +31,21 @@ _Common types_:
 
 If the JSON response looks like this:
 
-        {
-            "id": 1001,
-            "person": [
-                {
-                    "name": "John",
-                    "age": 45,
-                    "city": "New York"
-                },
-                {
-                    "name": "Rich",
-                    "age": 34,
-                    "city": "London"
-                }
-            ]
-        }
+    {
+        "id": 1001,
+        "person": [
+            {
+                "name": "John",
+                "age": 45,
+                "city": "New York"
+            },
+            {
+                "name": "Rich",
+                "age": 34,
+                "city": "London"
+            }
+        ]
+    }
 the path person[1].name will return "Rich", while the path person[0] will return all information about John.
 
 **Request body:** Enter the JSON format request body. This will only apply to the POST method.
