@@ -4,8 +4,8 @@ Thanks for using the Logic Sheet Google Workspace add-on. Logic Sheet is an all-
 
 ## Table of contents
 - [Work with APIs](#work-with-apis)
-- - [Pull from an API](#pull-from-an-api)
-- - [Enrich with an API](#enrich-with-an-api)
+    - [Pull from an API](#pull-from-an-api)
+    - [Enrich with an API](#enrich-with-an-api)
 
 ## Work with APIs
 This section will cover how to use Logic Sheet's API-related functions.
