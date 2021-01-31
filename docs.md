@@ -61,7 +61,7 @@ the path person[1].name will return "Rich", while the path person[0] will return
 
 **API url:** Type in the url and full path of the API endpoint, including all parameters. Parameters are usually used to pass in API keys for simple authentication methods.
 
-You can also include \{{merge_tag}} in the url parameters to represent data from the sheet to be sent to the API endpoint. 
+You can also include {%raw%}{{merge_tag}}{%endraw%} in the url parameters to represent data from the sheet to be sent to the API endpoint. 
 
 For example: https://mydata.com/api/v2/dataset1?api_key=keyvalye&data=\{{merge_tag}}
 
