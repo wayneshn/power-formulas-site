@@ -63,7 +63,7 @@ the path person[1].name will return "Rich", while the path person[0] will return
 
 You can also include {%raw%}{{merge_tag}}{%endraw%} in the url parameters to represent data from the sheet to be sent to the API endpoint. 
 
-For example: https://mydata.com/api/v2/dataset1?api_key=keyvalye&data=\{{merge_tag}}
+For example: https://mydata.com/api/v2/dataset1?api_key=keyvalye&data={%raw%}{{merge_tag}}{%endraw%}
 
 **Headers** Headers let you pass additional information with the API request. Request headers can be used in the request to provide information about the request context to help the server tailor the response. You can use, for example, the Authorization header to provide authentication credentials.
 
@@ -99,12 +99,12 @@ If the JSON response looks like this:
 
 the path person[1].name will return "Rich", while the path person[0] will return all information about John.
 
-**Request body:** Enter the JSON format request body. This will only apply to the POST method. For example, when creating a resource using POST, the request body usually contains the representation of the resource to be created. use \{{merge_tag}} to represent data from the sheet to be sent to the API endpoint. 
+**Request body:** Enter the JSON format request body. This will only apply to the POST method. For example, when creating a resource using POST, the request body usually contains the representation of the resource to be created. use {%raw%}{{merge_tag}}{%endraw%} to represent data from the sheet to be sent to the API endpoint. 
 
 For example:
 
     {
-        "data": \{{merge_tag}},
+        "data": {%raw%}{{merge_tag}}{%endraw%},
         "process": true
     }
 
