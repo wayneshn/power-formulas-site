@@ -4,7 +4,7 @@
 
 Here is a list of physical currencies which can be used in Logic Sheet's forex rates function and cryptocurrency exchange rates function (used as a value of "market").
 
-|currency code|currency name                      |
+|Currency code|Currency name                      |
 |-------------|-----------------------------------|
 |AED          |United Arab Emirates Dirham        |
 |AFN          |Afghan Afghani                     |
@@ -167,7 +167,7 @@ Here is a list of physical currencies which can be used in Logic Sheet's forex r
 
 Here is a list of cryptocurrencies which can be used in Logic Sheet's cryptocurrency exchange rates function.
 
-|currency code|currency name                   |
+|Currency code|Currency name                   |
 |-------------|--------------------------------|
 |1ST          |FirstBlood                      |
 |2GIVE        |GiveCoin                        |
