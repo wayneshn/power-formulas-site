@@ -113,4 +113,15 @@ For example:
         "process": true
     }
 
-(Updating)
+## Get data
+
+### Get data from a database
+
+This function allows you to pull data from an external MySQL database. You can only retrieve data from one table of the database each time. The data will be inserted starting from the cell which your cursor has selected.
+
+In order to create a database connection using the JDBC service used by this function, you must allow certain IP ranges in your database settings to allow Google Apps Script to access it. These are the [IP address ranges](https://www.gstatic.com/ipranges/goog.txt) you'll need to allow-list.
+
+**Database type:** The function currently supports MySQL, Google Cloud SQL MySQL, Microsoft SQL Server, and Oracle databases.
+
+ (Updating)
+ 
