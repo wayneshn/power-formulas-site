@@ -1,4 +1,4 @@
-theme: poole/lanyon
+theme: jekyll-theme-minimal
 description: The all-in-one Google Sheets tool
 show_downloads: false
 title: Logic Sheet
