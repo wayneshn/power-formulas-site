@@ -2,6 +2,7 @@
 
 Logic Sheet is the all-in-one tool that helps you manipulate your spreadsheet.
 
+Get Logic Sheet from [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/logic_sheet/796322869198).
 
 ### API Connector
 
