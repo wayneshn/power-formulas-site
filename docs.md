@@ -126,7 +126,7 @@ In order to create a database connection using the JDBC service used by this fun
  (Updating)
 
 
- ### Get data from a webpage
+### Get data from a webpage
 
  This function allows you to pull structural data (a table or a list) from a webpage. The data will be inserted starting from the cell which your cursor has selected. 
 
