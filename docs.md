@@ -123,10 +123,105 @@ In order to create a database connection using the JDBC service used by this fun
 
 **Database type:** The function currently supports MySQL, Google Cloud SQL MySQL, Microsoft SQL Server, and Oracle databases.
 
- (Updating)
+**Database url:** The url/ip address of the database, without port.
 
+**Database port** Port of the database. The JDBC service used by this function can only connect to ports 1025 and above. Ensure your database is not serving off a lower port.
+
+**Database name:** The name of the database to retrieve data from.
+
+**Table name:** The name of the table in the database to retrieve data from.
 
 ### Get data from a webpage
 
  This function allows you to pull structural data (a table or a list) from a webpage. The data will be inserted starting from the cell which your cursor has selected. 
+
+**Webpage url:** The webpage url where the desired data is located.
+
+**Data type:** Select the type of desired structured data. It can be a table content or a list on the webpage.
+
+**Data index:** The index, starting at 1, which identifies which table or list as defined in the HTML source should be returned. (The indices for lists and tables are maintained separately, so there may be both a list and a table with index 1 if both types of elements exist on the HTML page.)
+
+## Sort data
+
+### Unpivot data
+
+This function will transform a pivot table into raw data. Read more [here](https://docs.tibco.com/pub/spotfire/6.5.1/doc/html/data/data_unpivoting_data.htm#:~:text=An%20unpivot%20transformation%20is%20one,in%20the%20new%20data%20set).
+
+**Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+
+## Clean and format data
+
+### Remove duplicate rows
+
+This function will simply remove all extra rows that have the same value in each cell. Only one duplicate row will be preserved.
+
+### Change text casing
+
+This function will change the text casing of all values of the selected range.
+
+**Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+**Case type:** Select the desired case type from the list. Currently we support the following types:
+
+- Upper case (THIS IS UPPERCASE
+- Lower case (this is lower case)
+- Proper case (This Is Proper Case)
+- Sentence case (This is sentence case)
+- Upper camel case, or pascal case (ThisIsUpperCamelCase)
+- Lower camel case (thisIsLowerCamelCase)
+- Train case (This-Is-Train-Case)
+- Snake case (this_is_snake_case)
+- Kebab case (this-is-kebab-case)
+
+### Round numbers 
+
+This function will round all numbers to the nearest integers.
+
+**Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+### Clean data
+
+This function allows you to clean data in the selected range. For example, you can remove all punctuations from text values.
+
+**Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+**Option:** How do you want your data to be clean? We support the following types:
+
+- Remove lead spaces. This will remove leading spaces from all cells in the selected range.
+- Remove trailing spaces. This will remove trailing spaces from all cells in the selected range.
+- Remove all non-numbers. This will remove all values that are not numbers from all cells in the selected range. For example: "He is 30 years old." will become "30".
+- Remove all numbers: This will remove all values that are numbers from all cells in the selected range. For example: "He is 30 years old." will become "He is 30 years old.".
+- Remove all punctuations. This will remove all punctuations from all cells in the selected range. For example: "He is 30 years old, isn't he?" will become "He is 30 years old isnt he".
+
+### Unix time converter
+
+This function will convert epoch time/unix timestamps into the UTC time. This is useful when you have retrieve a column of timestamps from an API endpoint that uses the unix timestamp.
+
+**Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. Only one column each execution allowed.
+
+## Finance 
+
+The finance functions of Logic Sheet relies on the Alpha Vantage database, which is a free finance information provider. In order to use Logic Sheet to retrieve finance data such as real-time share prices or currency exchange rates, you have to gain an Alpha Vantage API key. The API key is provided completely free and it only takes you less than one minute to register. You can use the API key repeatedly.
+
+Get the API Key here: https://www.alphavantage.co/support/#api-key
+
+### Alpha Vantage API Key
+
+Type in and save your Alpha Vantage API key here so that you don't have to type it every time you use a Finance function.
+
+Get the API Key here: https://www.alphavantage.co/support/#api-key
+
+
+
+
+
 
