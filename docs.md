@@ -6,6 +6,26 @@ Thanks for using the Logic Sheet Google Workspace add-on. Logic Sheet is an all-
 - [Work with APIs](#work-with-apis)
     - [Pull from an API](#pull-from-an-api)
     - [Enrich with an API](#enrich-with-an-api)
+- [Get data](#get-data)
+    - [Get data from a database](#get-data-from-a-database)
+    - [Get data from a webpage](#get-data-from-a-webpage)
+- [Sort data](#sort-data)
+    - [Unpivot data](#unpivot-data)
+- [Clean and format data](#clean-and-format-data)
+    - [Remove duplicate rows](#remove-duplicate-rows)
+    - [Change text casing](#change-text-casing)
+    - [Round numbers](#round-numbers)
+    - [Clean data](#clean-data)
+    - [Unix time converter](#unix-time-converter)
+- [Calculate](#calculate)
+    - [Insert running totals](#insert-running-totals)
+    - [Insert growth rate](#insert-growth-rate)
+- [Finance](#finance)
+    - [Alpha Vantage API key](#alpha-vantage-api-key)
+    - [Get share prices](#get-share-prices)
+    - [Fundamental information](#fundamental-information)
+    - [Forex rates](#forex-rates)
+    - [Cryptocurrency rates](#cryptocurrency-rates)
 
 ## Work with APIs
 This section will cover how to use Logic Sheet's API-related functions.
@@ -313,9 +333,6 @@ Get the API Key here: https://www.alphavantage.co/support/#api-key
 **Crypto symbol:** The symbol of digital/crypto currency. It can be any of the currencies in the [supported cryptocurrency list](https://app.logicsheet.co/financesupport#supported-cryptocurrencies). For example: BTC.
 
 **Market:** The exchange market of your choice. It can be any of the currency in the [physical currency list](https://app.logicsheet.co/financesupport#supported-physical-currencies). For example: SGD means the Singaporean market.
-
-
-
 
 
 
