@@ -32,7 +32,7 @@ This section will cover how to use Logic Sheet's API-related functions.
 
 ### Pull from an API
 
-![API screenshot](./img/ss-api.png)
+![API screenshot](./img/fss-api.png)
 
 **Method:** Chose the http method to pull data from an API endpoint. Currently we only support the GET and POST methods, though we will add more. Please check your API reference to decide which method you want to use.
 
@@ -159,6 +159,8 @@ In order to create a database connection using the JDBC service used by this fun
 
  This function allows you to pull structural data (a table or a list) from a webpage. The data will be inserted starting from the cell which your cursor has selected. 
 
+ ![Get data from a webpage to Google Sheets](./img/fss-webpage.png)
+
 **Webpage url:** The webpage url where the desired data is located.
 
 **Data type:** Select the type of desired structured data. It can be a table content or a list on the webpage.
@@ -275,6 +277,8 @@ Get the API Key here: https://www.alphavantage.co/support/#api-key
 
 This function allows you to retrieve share price data of a given company.
 
+![API screenshot](./img/fss-shares.png)
+
 **API key:** This function relies on the Alpha Vantage API for information. You will need to get a free Alpha Vantage API key first to use this function.
 
 Get the API Key here: https://www.alphavantage.co/support/#api-key
@@ -333,7 +337,3 @@ Get the API Key here: https://www.alphavantage.co/support/#api-key
 **Crypto symbol:** The symbol of digital/crypto currency. It can be any of the currencies in the [supported cryptocurrency list](https://app.logicsheet.co/financesupport#supported-cryptocurrencies). For example: BTC.
 
 **Market:** The exchange market of your choice. It can be any of the currency in the [physical currency list](https://app.logicsheet.co/financesupport#supported-physical-currencies). For example: SGD means the Singaporean market.
-
-
-
-
