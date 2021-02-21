@@ -3,19 +3,15 @@ This Privacy Policy document contains types of information that is collected and
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website (“Website”) and users of the Logic Sheet Google workspace add-on (“Service”) with regards to the information that they shared and/or collect in Logic Sheet. This policy is not applicable to any information collected offline or via channels other than this Website or the Logic Sheet Google workspace add-on Service.
-
 ## Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+By using Logic Sheet, you hereby consent to our Privacy Policy and agree to its terms.
 
 ## Information we collect
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
-
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, and email address.
 
 ## Add-on Authorization scopes
 
@@ -33,9 +29,9 @@ When you install Logic Sheet and log-in with you Google account, your email addr
 
 We use the information we collect in various ways, including to:
 
-- Provide, operate, and maintain our Website and Service.
-- Improve, personalize, and expand our Website and Service.
-- Understand and analyze how you use our Website and Service.
+- Provide, operate, and maintain our Service.
+- Improve, personalize, and expand our Service.
+- Understand and analyze how you use our Service.
 - Develop new products, services, features, and functionality.
 - Send you emails about billing and subscription status.
 - Find and prevent fraud.
@@ -81,7 +77,7 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-Logic Sheet does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Logic Sheet does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website or Service, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 ## Contact Information
 
