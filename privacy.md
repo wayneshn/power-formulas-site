@@ -44,10 +44,6 @@ Logic Sheet follows a standard procedure of using log files. These files log vis
 
 Like any other website, Logic Sheet uses 'cookies.' These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-## Third-Party Privacy Policies
-
-Logic Sheet's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
-
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
 ## CCPA Privacy Rights (Do Not Sell My Personal Information)
