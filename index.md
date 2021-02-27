@@ -14,9 +14,9 @@ Logic Sheet’s API Connector can help you make POST/GET requests to any JSON da
 
 ## Data importer 🧑‍💻 
 
-**MySQL to sheets:** You can use Logic Sheet to connect to a MySQL database and import data from the database using our database connector function. 
+- MySQL to sheets: You can use Logic Sheet to connect to a MySQL database and import data from the database using our database connector function. 
 
-**Data scraping:** Scrape structured data from any website page using our webpage crawl function.
+- Data scraping: Scrape structured data from any website page using our webpage crawl function.
 
 ## Data cleaning 🧹
 
@@ -28,7 +28,7 @@ Logic Sheet’s API Connector can help you make POST/GET requests to any JSON da
 
 Use Logic Sheet to insert a cumulative sum column or insert a growth rate column next to the selected column.
 
->> Finance 💵
+## Finance 💵
 
 Logic Sheet can help you import stock prices, financial statements, and foreign exchange rates into your spreadsheets and simplify your financial analysis workflow.  
 
