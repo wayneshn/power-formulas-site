@@ -337,3 +337,44 @@ Get the API Key here: https://www.alphavantage.co/support/#api-key
 **Crypto symbol:** The symbol of digital/crypto currency. It can be any of the currencies in the [supported cryptocurrency list](https://app.logicsheet.co/financesupport#supported-cryptocurrencies). For example: BTC.
 
 **Market:** The exchange market of your choice. It can be any of the currency in the [physical currency list](https://app.logicsheet.co/financesupport#supported-physical-currencies). For example: SGD means the Singaporean market.
+
+## Data analysis
+
+Logic Sheet can be used to perform all kinds of data analysis tasks, including ANOVA, or Analysis of variance, correlation, covariance, and descriptive statistics.
+
+### One-way ANOVA
+
+One-way ANOVA, or single factor ANOVA, is used to determine whether there are any statistically significant differences between the means of several unrelated groups.
+
+![One-way ANOVA](./img/ss-anova-one.png)
+
+**Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+**Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
+
+**Data include labels:** Check this if the input range you have selected includes data labels.
+
+**Alpha value:** Alpha(α), or the significance level, is the probability of rejecting the null hypothesis when it is true. For example, an alpha value of 0.05 means that a 5% risk of concluding that a difference exists when there is no actual difference. In ANOVA, alpha value is used to calculate the F crit value in the output.
+
+**Output range:** Set the _cell range_ from which the ANOVA table will be displayed. Make sure there is enough space for output data. For example: A12. The output will take at least 15 rows and 7 columns. It could be bigger depending on the size of the input.
+
+### Two-way ANOVA with out replication
+
+Two-way ANOVA, or two-factor ANOVA, is used to analyze the difference between the means of more than two groups. It is also used to estimate how two independent variables, in combination, affect a dependent variable.
+
+![Two-way ANOVA](./img/ss-anova-two.png)
+
+**Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
+
+![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+
+**Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
+
+**Data include labels:** Check this if the input range you have selected includes data labels.
+
+**Alpha value:** Alpha(α), or the significance level, is the probability of rejecting the null hypothesis when it is true. For example, an alpha value of 0.05 means that a 5% risk of concluding that a difference exists when there is no actual difference. In ANOVA, alpha value is used to calculate the F crit value in the output.
+
+**Output range:** Set the _cell range_ from which the ANOVA table will be displayed. Make sure there is enough space for output data. For example: A12. The output will take at least 17 rows and 7 columns. It could be bigger depending on the size of the input.
+
