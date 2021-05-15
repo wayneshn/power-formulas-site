@@ -28,7 +28,7 @@ Thanks for using the Logic Sheet Google Workspace add-on. Logic Sheet is an all-
     - [Cryptocurrency rates](#cryptocurrency-rates)
 - [Data analysis](#data-analysis)
     - [One-way ANOVA](#one-way-anova)
-    - [One-way ANOVA without replication](#one-way-anova-without-replication)
+    - [Two-way ANOVA without replication](#two-way-anova-without-replication)
     - [Correlation](#correlation)
     - [Covariance](#covariance)
     - [Descriptive statistics](#descriptive-statistics)
