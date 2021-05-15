@@ -26,6 +26,12 @@ Thanks for using the Logic Sheet Google Workspace add-on. Logic Sheet is an all-
     - [Fundamental information](#fundamental-information)
     - [Forex rates](#forex-rates)
     - [Cryptocurrency rates](#cryptocurrency-rates)
+- [Data analysis](#data-analysis)
+    - [One-way ANOVA](#one-way-anova)
+    - [One-way ANOVA without replication](#one-way-anova-without-replication)
+    - [Correlation](#correlation)
+    - [Covariance](#covariance)
+    - [Descriptive statistics](#descriptive-statistics)
 
 ## Work with APIs
 This section will cover how to use Logic Sheet's API-related functions.
@@ -360,7 +366,7 @@ One-way ANOVA, or single factor ANOVA, is used to determine whether there are an
 
 **Output range:** Set the _cell range_ from which the ANOVA table will be displayed. Make sure there is enough space for output data. For example: A12. The output will take at least 15 rows and 7 columns. It could be larger depending on the size of the input. (See example above)
 
-### Two-way ANOVA with out replication
+### Two-way ANOVA without replication
 
 Two-way ANOVA, or two-factor ANOVA, is used to analyze the difference between the means of more than two groups. It is also used to estimate how two independent variables, in combination, affect a dependent variable.
 
