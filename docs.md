@@ -90,7 +90,7 @@ the path person[1].name will return "Rich", while the path person[0] will return
 
 This function will only process a column of data, so you have to choose which column and from which row you want the data to be processed. This is an example:
 
-![example of a data column](./img/column-row-1.png)
+[![example of a data column](./img/column-row-1.png)](./img/column-row-1.png)
 
 **Method:** Chose the http method to send data to an API endpoint. Currently we only support the GET and POST methods, though we will add more. Please check your API reference to decide which method you want to use.
 
