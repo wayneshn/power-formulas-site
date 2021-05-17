@@ -38,7 +38,7 @@ This section will cover how to use Logic Sheet's API-related functions.
 
 ### Pull from an API
 
-![API screenshot](./img/fss-api.png)
+[![API screenshot](./img/fss-api.png)](./img/fss-api.png)
 
 **Method:** Chose the http method to pull data from an API endpoint. Currently we only support the GET and POST methods, though we will add more. Please check your API reference to decide which method you want to use.
 
@@ -165,7 +165,7 @@ In order to create a database connection using the JDBC service used by this fun
 
  This function allows you to pull structural data (a table or a list) from a webpage. The data will be inserted starting from the cell which your cursor has selected. 
 
- ![Get data from a webpage to Google Sheets](./img/fss-webpage.png)
+[![Get data from a webpage to Google Sheets](./img/fss-webpage.png)](./img/fss-webpage.png)
 
 **Webpage url:** The webpage url where the desired data is located.
 
@@ -181,7 +181,7 @@ This function will transform a pivot table into raw data. Read more [here](https
 
 **Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 
 ## Clean and format data
@@ -196,7 +196,7 @@ This function will change the text casing of all values of the selected range.
 
 **Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Case type:** Select the desired case type from the list. Currently we support the following types:
 
@@ -216,7 +216,7 @@ This function will round all numbers to the nearest integers.
 
 **Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 ### Clean data
 
@@ -224,7 +224,7 @@ This function allows you to clean data in the selected range. For example, you c
 
 **Data range:** Select the data range. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Option:** How do you want your data to be clean? We support the following types:
 
@@ -252,7 +252,7 @@ This function will insert a column of running total values of the selected colum
 
 This function will only process a column of data, so you have to choose which column and from which row you want the data to be processed. This is an example:
 
-![example of a data column](./img/column-row-1.png)
+[![example of a data column](./img/column-row-1.png)](./img/column-row-1.png)
 
 ### Insert growth rate
 
@@ -264,7 +264,7 @@ This function will insert a column of growth rate values of the selected column 
 
 This function will only process a column of data, so you have to choose which column and from which row you want the data to be processed. This is an example:
 
-![example of a data column](./img/column-row-1.png)
+[![example of a data column](./img/column-row-1.png)](./img/column-row-1.png)
 
 ## Finance 
 
@@ -283,7 +283,7 @@ Get the API Key here: https://www.alphavantage.co/support/#api-key
 
 This function allows you to retrieve share price data of a given company.
 
-![API screenshot](./img/fss-shares.png)
+[![API screenshot](./img/fss-shares.png)](./img/fss-shares.png)
 
 **API key:** This function relies on the Alpha Vantage API for information. You will need to get a free Alpha Vantage API key first to use this function.
 
@@ -352,11 +352,11 @@ Logic Sheet can be used to perform all kinds of data analysis tasks, including A
 
 One-way ANOVA, or single factor ANOVA, is used to determine whether there are any statistically significant differences between the means of several unrelated groups.
 
-![One-way ANOVA](./img/ss-anova-one.png)
+[![One-way ANOVA](./img/ss-anova-one.png)](./img/ss-anova-one.png)
 
 **Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
 
@@ -370,11 +370,11 @@ One-way ANOVA, or single factor ANOVA, is used to determine whether there are an
 
 Two-way ANOVA, or two-factor ANOVA, is used to analyze the difference between the means of more than two groups. It is also used to estimate how two independent variables, in combination, affect a dependent variable.
 
-![Two-way ANOVA](./img/ss-anova-two.png)
+[![Two-way ANOVA](./img/ss-anova-two.png)](./img/ss-anova-two.png)
 
 **Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
 
@@ -388,11 +388,11 @@ Two-way ANOVA, or two-factor ANOVA, is used to analyze the difference between th
 
 Correlation is used to find the correlation coefficient between two or more variables.
 
-![Correlation](./img/ss-correlation.png)
+[![Correlation](./img/ss-correlation.png)](./img/ss-correlation.png)
 
 **Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
 
@@ -404,11 +404,11 @@ Correlation is used to find the correlation coefficient between two or more vari
 
 The Covariance tool quantifies the relationship between two sets of values.
 
-![Correlation](./img/ss-covariance.png)
+[![Correlation](./img/ss-covariance.png)](./img/ss-covariance.png)
 
 **Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
 
@@ -420,11 +420,11 @@ The Covariance tool quantifies the relationship between two sets of values.
 
 Descriptive statistics describe the basic features of the data. Features include Mean, Standard Error, Median, Mode, Standard Deviation, Sample Variance, Kurtosis, Skewness, Range, Confidence Level, and more.
 
-![Descriptive statistics](./img/ss-descriptive.png)
+[![Descriptive statistics](./img/ss-descriptive.png)](./img/ss-descriptive.png)
 
 **Input range:** Select the input range of your data. A range represents a single cell or a group of adjacent cells in your spreadsheet. For example, A1:D10 is shown below.
 
-![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)
+[![Data range example in Google Spreadsheets](./img/range-example-a1-d10.png)](./img/range-example-a1-d10.png)
 
 **Grouped by:** Choose how the data is grouped, it can either be in columns or in rows. 
 
