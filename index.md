@@ -43,6 +43,6 @@ Get Logic Sheet from [Google Workspace Marketplace](https://workspace.google.com
 
 My email address is shengwei1993@gmail.com. Feel free to reach out!
 
-#### [Documentation](https://app.logicsheet.co/docs)
+#### [Documentation](https://docs.logicsheet.co/)
 #### [Privacy Policy](https://app.logicsheet.co/privacy)
 #### [Terms of Service](https://app.logicsheet.co/terms)
