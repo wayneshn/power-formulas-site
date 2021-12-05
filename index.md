@@ -1,6 +1,6 @@
-## Logic Sheet
+## Logic Sheet introduction
 
-Logic Sheet is the all-in-one data processing tool for Google Sheets
+[Logic Sheet](https://logicsheet.co) is the all-in-one data processing tool for Google Sheets
 
 Get Logic Sheet from [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/logic_sheet/796322869198).
 
