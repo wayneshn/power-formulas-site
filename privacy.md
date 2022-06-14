@@ -23,7 +23,7 @@ When installing the Logic Sheet add-on, you will be prompted to authorize one or
 - Connect to an external service. This permission is required for fetching subscription information and fetching data from external services.
 - Display and run third-party web content in prompts and sidebars inside Google applications. This permission is required for opening up the sidebar so you can use Logic Sheet functions in an intuitive user interface.
 
-When you install Logic Sheet and log-in with you Google account, your email address will be shared with us. You email address will only be used to track your product subscription status and will not be used to send promotional emails. 
+When you install Logic Sheet and log-in with you Google account, your email address will be shared with us. You email address will be used to track your product subscription status. 
 
 ## How we use your information
 
@@ -34,6 +34,7 @@ We use the information we collect in various ways, including to:
 - Understand and analyze how you use our Service.
 - Develop new products, services, features, and functionality.
 - Send you emails about billing and subscription status.
+- Send you emails about our product updates, latest deals and tips. You can unsubscribe from all non-billing related communications from us at any time.
 - Find and prevent fraud.
  
 ## Log Files
@@ -79,8 +80,8 @@ Logic Sheet does not knowingly collect any Personal Identifiable Information fro
 
 If you have any queries regarding our privacy policy and how we handle your personal information, please contact us.
 
-Email: shengwei1993@gmail.com
+Email: wei@logicsheet.co
 
 
 ###### Effective: 27 January 2021
-###### Last modified: 27 January 2021
+###### Last modified: 9 June 2021
