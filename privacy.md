@@ -19,9 +19,19 @@ Our Service requires that Users give permission to access their personal informa
 
 When installing the Logic Sheet add-on, you will be prompted to authorize one or more permissions. Below are some of the permissions required by our add-on.
 
+### Sensitive permisions
+
 - See, edit, create, and delete your spreadsheets in Google Drive. Logic Sheet helps you manipulate data on your spreadsheets, which require reading and modifying your spreadsheet.
 - Connect to an external service. This permission is required for fetching subscription information and fetching data from external services.
 - Display and run third-party web content in prompts and sidebars inside Google applications. This permission is required for opening up the sidebar so you can use Logic Sheet functions in an intuitive user interface.
+- Connect to an external service. This premission is required to allow you to connect to APIs and databases to import data to Google Sheets.
+- Allow this application to run when you are not present. This premission is required for Logic Sheet's Automation feature to run when you are not present.
+- Send email as you. This premission is required to send emails if you choose the Send an Email action in an automated workflow.
+- Create and update Google Apps Script deployments. This premission is required to allow Logic Sheet to deploy a web app so that Logic Sheet can provide a webhook feature that allows you to import incoming data into Google Sheets.
+
+### Non-sensitive permissions
+- See your primary Google Account email address.
+- See your personal info, including any personal info you've made publicly available.
 
 When you install Logic Sheet and log-in with you Google account, your email address will be shared with us. You email address will be used to track your product subscription status. 
 
