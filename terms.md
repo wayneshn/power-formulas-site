@@ -34,7 +34,7 @@ Whilst we endeavour to ensure that the information on this website is correct, w
 
 If you have any queries regarding any of our terms, please contact us.
 
-Email: shengwei1993@gmail.com
+Email: wei@logicsheet.co
 
 ###### Effective: 27 January 2021
 ###### Last modified: 27 January 2021
