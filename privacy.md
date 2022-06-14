@@ -19,7 +19,7 @@ Our Service requires that Users give permission to access their personal informa
 
 When installing the Logic Sheet add-on, you will be prompted to authorize one or more permissions. Below are some of the permissions required by our add-on.
 
-### Sensitive permisions
+### Sensitive permissions
 
 - See, edit, create, and delete your spreadsheets in Google Drive. Logic Sheet helps you manipulate data on your spreadsheets, which require reading and modifying your spreadsheet.
 - Connect to an external service. This permission is required for fetching subscription information and fetching data from external services.
