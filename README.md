@@ -1,1 +1,1 @@
-# logicsheet
+# Power Formulas
