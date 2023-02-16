@@ -1,2 +1,3 @@
-# Logic Sheet
-This project is Logic Sheet's public website.
+# Power Formulas
+
+This project is Power Formulas' public website.
