@@ -33,3 +33,7 @@ With the Formula Builder, you can select the formula you want to use from a list
 #### [Privacy Policy](/privacy)
 
 #### [Terms of Service](/terms)
+
+#### [Support](/support)
+
+###### Google Sheets™ is a trademark of Google LLC
